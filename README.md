@@ -4,6 +4,7 @@ Herhangi bir IP adresinin herhangi bir portunu sahip olduğunuz IP adresindeki p
 # Derleme
 ```bash
 chmod +x build.sh
+./build.sh
 ```
 
 # Kullanım
